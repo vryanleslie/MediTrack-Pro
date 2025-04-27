@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reports - MediTrack-Pro</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="reports-container">
+        <h2>Reports</h2>
+        <div id="sales-report">
+            <h3>Sales Report</h3>
+            <!-- Display sales report graph here -->
+        </div>
+        <div id="purchases-report">
+            <h3>Purchases Report</h3>
+            <!-- Display purchases report graph here -->
+        </div>
+    </div>
+</body>
+</html>

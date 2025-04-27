@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - MediTrack-Pro</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <h1>Welcome to MediTrack-Pro Dashboard</h1>
+        <nav>
+            <ul>
+                <li><a href="sales.html">Sales</a></li>
+                <li><a href="purchases.html">Purchases</a></li>
+                <li><a href="inventory.html">Inventory</a></li>
+                <li><a href="reports.html">Reports</a></li>
+            </ul>
+        </nav>
+    </div>
+</body>
+</html>
